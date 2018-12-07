@@ -6,6 +6,8 @@ This model implements a mechanism from the literature on Self-Organized Critical
 
 ## How to Run
 
+There are three ways to run the model: in a jupyter notebook for demo purposes, in interactive visualization mode, and from a run file (for collecting data, plotting, and more sytematic simulation study).
+
 Launch an interactive server by Running ``run.py``:
 
 ```
