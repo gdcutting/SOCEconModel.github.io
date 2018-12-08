@@ -1,4 +1,4 @@
-# Self-Organized Criticality Economics Model
+# Self-Organized Criticality Economic Model
 An Agent-Based Model, using mesa for Python, which implements a self-organized criticality (SOC) mechanism
 
 ## Summary
